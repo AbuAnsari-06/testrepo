@@ -21,3 +21,8 @@ This repository is configured to test and validate:
 4. Commit your changes with clear, descriptive commit messages.
 5. Push to your fork and submit a Pull Request to `PSIT-GDGOC/testrepo:main`.
 6. Link your PR to any claimed issues (e.g., `Closes #<issue_number>`).
+
+## Verification & Testing
+- **Tested by**: [@akaKRISH](https://github.com/akaKRISH)
+- **Status**: PR & commit webhook verification active
+- **Branch**: `update-readme`
